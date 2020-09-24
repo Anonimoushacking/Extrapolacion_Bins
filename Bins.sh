@@ -1,14 +1,14 @@
 #!/bin/bash
 apt install figlet
 clear
-figlet smslantExtrapola 
-figlet smslant Bins 
+figlet Extrapola 
+figlet Bins 
 figlet -f term Doble Extrapolacion 
 figlet -f term by. Anonimous 
-figlet -f term <==============================>
+figlet -f term ==============================
 echo "
 figlet -f term            DISFRUTA 
-figlet -f term <===============================> 
+figlet -f term ===============================
 echo ""    
 echo "=>Primera extrapolacion, pon los ultimos 4 dijitos de una CC Real "
 read -p " 4 digitos===> " CCR
