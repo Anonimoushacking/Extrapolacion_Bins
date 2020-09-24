@@ -1,8 +1,8 @@
 #!/bin/bash
 apt install figlet
 clear
-figlet -f smslant BIN -c
-figlet -f smslant ReSuci+aTe -c  
+figlet Extrapola 
+figlet Bin
 figlet -f term Doble Extrapolacion -c 
 figlet -f term by. ༆𝔸𝐍𝑂Nɪᗰ𝗼𝖀𝘀♕ -c    
 figlet -f term ==================================== -c 
