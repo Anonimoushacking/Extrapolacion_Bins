@@ -4,16 +4,15 @@ clear
 figlet Extrapola 
 figlet Bin
 figlet -f term Doble Extrapolacion -c 
-figlet -f term by. ༆𝔸𝐍𝑂Nɪᗰ𝗼𝖀𝘀♕ -c    
+figlet -f term Edited by ༆𝔸𝐍𝑂Nɪᗰ𝗼𝖀𝘀♕ y Wilder Maldonado -c    
 figlet -f term ==================================== -c 
-echo ""
-figlet -f term         DISFRUTA -c 
+figlet -f term                DISFRUTA -c 
 figlet -f term ==================================== -c
 echo ""    
-echo "Primer extrapolacion, escriba los 4 ultimos digitos de una cc real"
+echo "=======> Primer extrapolacion, escriba los 4 ultimos digitos de una cc real"
 read -p "==> 4 digitos /> " CCR
 echo ""
-echo "Escriba dos tarjetas generadas de un bin de 6 digitos sin el cvv y fecha"
+echo "=======> Escriba dos tarjetas generadas de un bin de 6 digitos sin el cvv y fecha"
 read -p "==> tarjeta generada N° 1, /> " TG1
 read -p "==> tarjeta generada N° 2, /> " TG2
 echo ""
