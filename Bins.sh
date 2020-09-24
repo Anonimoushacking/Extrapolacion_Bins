@@ -55,3 +55,4 @@ figlet -f term sin usar checker, tambien puede
 figlet -f term convertirse en multi bin 
 figlet -f term creditos ༆𝔸𝐍𝑂Nɪᗰ𝗼𝖀𝘀♕  y  Wilder Maldonado 
 echo ""
+exit
