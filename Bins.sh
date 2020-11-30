@@ -4,12 +4,12 @@ clear
 figlet Extrapola 
 figlet Bin
 figlet -f term Doble Extrapolacion -c 
-figlet -f term Edited by Anonimous y Wilder Maldonado -c    
+figlet -f term Edited by Santy-Gz y Wilder Maldonado -c    
 figlet -f term ==================================== -c 
 figlet -f term                DISFRUTA -c 
 figlet -f term ==================================== -c
 echo ""    
-echo "=======> Primer extrapolacion, escriba los 6 primeros digitos de una cc real"
+echo "=======> Primer extrapolacion, escriba los 4 ultimos digitos de una cc real"
 read -p "==> 6 digitos /> " CCR
 echo ""
 echo "=======> Escriba dos tarjetas generadas de un bin de 6 digitos sin el cvv y fecha"
@@ -52,6 +52,5 @@ echo ""
 figlet -f term Listo ahora tienes un nuevo bin con lives -c
 figlet -f term sin usar checker, tambien puede -c
 figlet -f term convertirse en multi bin -c
-figlet -f term creditos ༆𝔸𝐍𝑂Nɪᗰ𝗼𝖀𝘀♕ y Wilder Maldonado
 echo ""
 exit
